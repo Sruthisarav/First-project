@@ -1,0 +1,70 @@
+#left {
+ float:left; 
+ width:32.5%;
+ border-right:1px solid black;
+ padding-left: 7.5%;
+ text-align: left;
+}
+
+#right {
+ float:right; 
+ width:67.5%;
+}
+
+#contatiner {
+	width:100%;
+}
+#left2{
+	float: left;
+	width:50%;
+}
+#right2{
+	float: right;
+	width:50%;
+}
+.rightside {
+	padding-left: 20%;
+}
+.rightside2 {
+	padding-left: 15%;
+}
+body {
+	text-align: center;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+	0px 8px 13px rgba(0,0,0,0.1),
+	0px 18px 23px rgba(0,0,0,0.1);
+}
+.special {
+	text-align: left;
+	padding-left: 7.5%;
+	padding-top: 5%;
+	padding-bottom:5%;
+	color:white;
+	background: url(file:///Users/sruthi/Desktop/Screen%20Shot%202017-11-23%20at%209.36.24%20PM.png);
+	background-size: cover;
+}
+.special2 {
+	text-align: left;
+
+}
+.color1 {
+	background-color: white;
+	color: #5680E9;
+	text-shadow: 0px 3px 5px rgba(0,0,0,0.2),
+	0px 8px 13px rgba(0,0,0,0.1),
+	0px 18px 23px rgba(0,0,0,0.1);
+}
+.color2 {
+	background-color: #5AB9EA;
+	padding: 5%;
+	color: white;
+}
+.color4 {
+	color: #8860D0;
+   
+}
+#middle{
+  width: 100%;
+}
+
+
